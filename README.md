@@ -45,8 +45,7 @@ Alongside AI & Data Science, I bring experience from a Flutter Full-Stack intern
 
 ---
 
-## 💼 Experience Snapshot
-- **Data Science Intern (3 months)** – Data cleaning, EDA, and ML models  
+## 💼 Experience Snapshot  
 - **Virtual Internship (1 month)** – Applied analytics and problem-solving  
 - **Flutter Full-Stack Intern** – Contributed to a live project during college  
 
