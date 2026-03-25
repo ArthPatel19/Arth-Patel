@@ -1,69 +1,70 @@
-# 👋 Hi, I’m Arth Patel
+# Hi, I'm Arth Patel 👋
 
-**AI & Data Science Engineer (Learner)**  
-**Computer Engineering Graduate (2025)**
-
-I am an AI & Data Science learner with a strong foundation in machine learning, data analysis, and application-oriented development. I enjoy working with data, building models, and gradually transforming them into usable applications.
-
-Alongside AI & Data Science, I bring experience from a Flutter Full-Stack internship, where I worked on a live project and gained real-world software development exposure.
+AI & Data Science Engineer  ·  Flutter Developer  ·  B.E. Computer Engineering, 2025
 
 ---
 
-## 🧠 What I’m Learning & Working On
-- Machine Learning fundamentals and applied data science  
-- Data preprocessing, EDA, and model evaluation  
-- Python and SQL for analytics and ML workflows  
-- Exploring AI concepts, with future focus on Generative AI & Agentic AI  
-- Using Flutter to support data-driven and AI-based applications  
+### About Me
+
+I'm a Computer Engineering graduate with a focus on building intelligent, data-driven systems and cross-platform applications.
+
+My work sits at the intersection of machine learning and product development — I enjoy taking models beyond notebooks and turning them into usable, real-world applications.
+
+I have hands-on experience from a **Flutter Full-Stack internship**, where I contributed to a live project and developed an end-to-end development mindset alongside my AI and data science work.
 
 ---
 
-## 🛠️ Technical Skills
+### What I Work With
 
-### Core Skills
-- Python  
-- SQL  
-- Machine Learning  
-- Data Science  
-- Data Analysis  
+**AI & Data Science**
+`Python` `Machine Learning` `Data Analysis` `EDA` `Scikit-learn`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL`
 
-### Libraries & Tools
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib  
-- Seaborn  
+**Deep Learning & AI (active focus)**
+`Neural Networks` `Deep Learning` `Computer Vision` `NLP`
 
-### Application Development
-- Flutter  
-- Dart  
-- REST API Integration  
+**Application Development**
+`Flutter` `Dart` `REST API Integration`
 
-### Backend Basics
-- Java  
-- Spring Boot (Basic)
+**Backend**
+`Java` `Spring Boot`
+
+**Tools**
+`Git` `GitHub` `Jupyter Notebook` `Google Colab` `VS Code`
 
 ---
 
-## 💼 Experience Snapshot  
-- **Virtual Internship (1 month)** – Applied analytics and problem-solving  
-- **Flutter Full-Stack Intern** – Contributed to a live project during college  
+### Experience
+
+| Role | Details |
+|---|---|
+| Flutter Full-Stack Intern | Contributed to a live production project during college |
+| Virtual Internship | Applied data analytics and problem-solving in a structured program |
 
 ---
 
-## 🚀 Projects
-Projects will be added as repositories as I complete and document them properly, with a focus on clarity, correctness, and real learning.
+### Projects
+
+Repositories will be added here as they are completed and documented — with a focus on clarity, real-world applicability, and reproducibility.
+
+> Check back soon.
 
 ---
 
-## 🎯 Current Focus
-- Strengthening AI and Machine Learning concepts  
-- Applying data science knowledge through hands-on projects  
-- Preparing industry-ready AI project repositories  
-- Gradually building intelligent, data-driven applications  
+### Current Focus
+
+- Building end-to-end ML projects and publishing them here
+- Deepening expertise in Deep Learning, Computer Vision, and NLP
+- Exploring Generative AI and Agentic AI systems
+- Integrating AI capabilities into Flutter-based applications
 
 ---
 
-## 📫 Connect With Me
+### Connect
+
 - LinkedIn: https://www.linkedin.com/in/arth-patel-480964368  
 - Email: pinchupatel1904@gmail.com
+
+---
+
+*Building at the intersection of AI and real-world product.*
