@@ -1,6 +1,6 @@
 # Hi, I'm Arth Patel 👋
 
-AI & Data Science Engineer  ·  Flutter Developer  ·  B.E. Computer Engineering, 2025
+AI & Data Science Engineer  ·  Flutter Developer  ·  B.E. Computer Engineering
 
 ---
 
